@@ -100,3 +100,6 @@ Temporary Items
 # Application properties #
 src/main/resources/application-**.properties
 gradle.properties
+
+# Proto
+src/main/proto_gen/
